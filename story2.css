@@ -1,0 +1,12 @@
+body{
+    font-size:xx-large;
+
+}
+img{
+    display: flex;
+    justify-content:space-evenly;
+    position: static;
+}
+.cricket{
+    text-align:initial;
+}
